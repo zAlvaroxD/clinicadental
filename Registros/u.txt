@@ -1,0 +1,10 @@
+# registro: u
+Cedula: 34243
+nombre: hjhfh
+apellido: kjjghjj
+fecha nacimiento: MMM d, yyyy
+Direccion: gjhgj
+ciudad: swsw
+Sexo: v
+Tipo de sangre: f
+Medicamentos: hgf
